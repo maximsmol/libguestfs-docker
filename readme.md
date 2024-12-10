@@ -2,6 +2,8 @@
 
 `libguestfs` and its tools in a minimal Alpine-based Docker image. Usable in Mac OS.
 
+[Available on Docker Hub.](https://hub.docker.com/r/maximsmol/libguestfs)
+
 # Usage
 
 The target VM image needs to be mounted into the container.
